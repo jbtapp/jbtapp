@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://jbt.bzlp.net/jbt.ipa</string>
+                    <string>http://http://jbt.szcartoon.net/jbt.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://jbt.bzlp.net/tubiao.png</string>
+                    <string>http://http://jbt.szcartoon.net/tubiao.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://jbt.bzlp.net/tubiao.png</string>
+                    <string>http://http://jbt.szcartoon.net/tubiao.png</string>
                 </dict>
             </array>
             <key>metadata</key>
